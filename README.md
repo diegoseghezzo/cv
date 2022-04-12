@@ -1,5 +1,4 @@
 # Diego Seghezzo
-
 _Software engineer since before responsive design was a thing (and IE6 was a trendy stuff)_<br><br>
 [Email](mailto:seghezzou2@gmail.com) / [Linkedin](http://www.linkedin.com/in/diegoseghezzo)
 
