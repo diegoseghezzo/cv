@@ -10,7 +10,7 @@ My journey has been mostly based on web development, fullstack, back end, and fr
 
 **Software Engineer** @ [X-TEAM](https://x-team.com/) _(Jul 2015 - Present)_ <br>
 Participating on projects for several clients such as:
-  - **OFX (currently)**: React, Context, Typescript, GraphQL, Cypress, Jest.
+  - **OFX (currently)**: React, Context, Typescript, GraphQL, Cypress, Jest, NX, Module Federation, Monorepo, Micro Frontends.
   - **Beachbody**: React, Redux, Typescript, GraphQL, Cypress, Jest.
   - **XHQ (X-Team internal project)**: Fullstack JS (React, Node).
   - **Synacor (Game of Thrones season 7 website)**: Fullstack PHP (Drupal).
