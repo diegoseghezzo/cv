@@ -1,5 +1,6 @@
 # Diego Seghezzo
-_Software engineer since before responsive design was a thing (and IE6 was a trendy stuff)_<br><br>
+_Experienced software engineer since Internet Explorer 5 was trendy. Started with PHP 4, played a lot with Drupal, since Drupal
+5, building websites for John Deere Latin America (a multi site installation within 50 websites for dealers), fox broadcasting and Game of Thrones. Currently working mainly on JavaScript tech such as React & Node. Still open to help on anything related to PHP and Drupal of course._<br><br>
 [Email](mailto:seghezzou2@gmail.com) / [Linkedin](http://www.linkedin.com/in/diegoseghezzo)
 
 My journey has been mostly based on web development, fullstack, back end, and front end, depending on the requirements of the project.<br><br>
