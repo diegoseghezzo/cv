@@ -5,13 +5,13 @@ _Experienced software engineer since Internet Explorer 5 was trendy. Started wit
 
 My journey has been mostly based on web development, fullstack, back end, and front end, depending on the requirements of the project.<br><br>
 
-/ **PHP** (Drupal, Wordpress, Simfony, Laravel, Cake, Yii, Zend) / **Javascript** (React, Node, Typescript, GraphQL, Vanilla JS, JQuery) / **DBs** (MYSQL, PostgreSQL, MS SQL, Oracle) / **Versioning** (Git, SVN, MS SourceSafe) / **Agile, Scrum, Kanban** / **Async communication**
+/ **PHP** (Drupal, Wordpress, Symfony, Laravel, Cake, Yii, Zend) / **Javascript** (React, Node, Typescript, GraphQL, Vanilla JS, JQuery) / **DBs** (MYSQL, PostgreSQL, MS SQL, Oracle) / **Versioning** (Git, SVN, MS SourceSafe) / **Agile, Scrum, Kanban** / **Async communication**
 
 ## Companies I collaborated with
 
 **Software Engineer** @ [X-TEAM](https://x-team.com/) _(Jul 2015 - Present)_ <br>
 Participating on projects for several clients such as:
-  - **WebMD (currently)**: generating technical documentation, implementation run book and end user run book, for 300+ clients, as long as auditing internal Software Development Lifecycle. Proposing good practices and avises to ensure quality across all the different stages of the products.
+  - **WebMD (currently)**: generating technical documentation, implementation run book and end user run book, for 300+ clients, as long as auditing internal Software Development Lifecycle. Proposing good practices and advises to ensure quality across all the different stages of the products.
   - **XHQ (X-Team internal project)**: collaborating with sales, creating MVPs for different initiatives, in collaboration with other companies.
   - **Swoogo**: Yii, Bootstrap 3.5 / 5, custom themes.
   - **Interlochen**: Drupal, Pantheon, MySQL, React. Hand off from external vendor to provide in house support. Migrate from Drupal 9 to Drupal 10, support integration with Salesforce and other 3rd party APIs.
